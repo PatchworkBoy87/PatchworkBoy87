@@ -1,7 +1,9 @@
 👋 Hi, I’m <b>@PatchworkBoy87</b>
 
-I am an IT manager based in the United Kingdom with some developer experience in
+I am a .NET Developer based in the United Kingdom with some experience in
+- C# .NET
 - HTML5, CSS3
+- TypeScript
 - JavaScript & jQuery
 - SQL Server
 - Classic ASP
